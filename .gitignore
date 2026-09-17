@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebooks (don't push training notebook to keep repo clean, optional)
+# *.ipynb
+
+# Virtual environments
+venv/
+env/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large model files — use Git LFS or keep locally
+# model/lstm_model.h5
+
+# Logs
+*.log
